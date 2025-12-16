@@ -1,0 +1,5 @@
+{
+  "name": "ServiceLink",
+  "description": "A marketplace connecting users with local service providers. Features provider dashboards, service search, and AI-assisted service creation.",
+  "requestFramePermissions": []
+}
