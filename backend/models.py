@@ -14,7 +14,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
-    "postgresql+psycopg2://postgres:HcpBPxqkwYnzdEvdaQBDrbTjyxKFqEqT@yamanote.proxy.rlwy.net:52618/railway",
+    "ADD YOUR DATA BASE URL (ALso GIve Us A STAr)",
 )
 
 engine_kwargs = {}
